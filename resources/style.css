@@ -12,28 +12,10 @@ html{text-align: center;
         color:white;
 
 }
-#home{color:white;
-      font-size: 18px;
 
-}
-#process{color:white;
-      font-size: 18px;
-
-}
-#work{color:white;
-      font-size: 18px;
-
-}
-#team{color:white;
-      font-size: 18px;
-
-}
-#contact{color:white;
-      font-size: 18px;
-
-}
 h4 {font-size: 23px;
     font-weight: bold;
+    color:black;
 
 }
 p{font-size: 14px;
@@ -56,5 +38,9 @@ h3 {font-size: 32px;
 
 }
 .copyright {font-size: 11px;
+
+}
+a {color:white;
+  font-size: 18px
 
 }
